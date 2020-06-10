@@ -5,7 +5,7 @@
 .menu ul, .banner ul {list-style-type:none;}
 .menu li {background-color:#3A3C55; color:#191C28; padding:10px; margin-bottom:10px; box-shadow;0 1px 3px gray;}
 .menu li:hover {background-color:#C8A8D1;}
-.menu li a {display:block; text-decoration:none; color:white;}
+.menu li a {display:block; text-decoration:none; color:#C3C7DB;}
 .banner li img {width:40%; vertical-align:middle;}
 [class*="col-"] {width:100%;}
 @media only screen and (min-width:600px) {
